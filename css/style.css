@@ -79,7 +79,7 @@ body{
     padding: 20px;
 }
 
-.video-esmagrecer video {
+.video-esmagrecer iframe{
     width: 100%;
     max-width: 900px;
     -webkit-box-shadow: -2px 6px 86px -11px rgba(255, 0, 0, 1);
