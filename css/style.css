@@ -490,6 +490,7 @@ ul li {
     transition: ease-in-out .5s;
     margin-top: 60px;
     margin-bottom: 30px;
+    cursor:pointer;
 }
 .btn-adquerir:hover{
     background-color:red;
